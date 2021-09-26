@@ -1,8 +1,12 @@
 
 col y fil se unen en cada iteracion para dar con el nuevo nivel
+
   col[0] fol[0] hace el Maze de primer nivel de dificultad
+
   col[1] fol[1] hace el Maze de segundo nivel de dificultad
+
   ...
+
   col[c] fol[f] hace el Maze de algun nivel de dificultad
 
 
